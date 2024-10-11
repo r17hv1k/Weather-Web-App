@@ -82,6 +82,7 @@ Contributions are welcome! Follow these steps to contribute:
 ##### 3. Commit your changes ```git commit -m 'Add some feature' ```.
 ##### 4. Push to the branch ```git push origin feature/your-feature```.
 ##### 5. Open a pull request.
+
 ## Acknowledgements
 
  - [OpenWeatherAPI](https://openweathermap.org/api) for providing the weather data.
@@ -89,3 +90,7 @@ Contributions are welcome! Follow these steps to contribute:
 ```vbnet
 Feel free to adjust the "Installation" and "Technologies Used" sections based on your project's actual setup. You might want to add more details or instructions depending on the frameworks, libraries, or deployment methods used.
 ```
+
+## License
+
+This project is licensed under the MIT license.
