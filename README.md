@@ -1,5 +1,5 @@
 # Weather Web App
-he Weather Web App is a responsive web application designed to provide real-time weather forecasts for any city around the world. This app is built using HTML, CSS, and JavaScript, and it fetches weather data from the [OpenWeatherAPI](https://openweathermap.org/api). The user can search for the current weather conditions of a city and receive detailed information such as temperature, humidity, and atmospheric pressure.
+he Weather Web App is a responsive web application designed to provide real-time weather forecasts for 7-days by default web location, and also for any city around the world. This app is built using HTML, CSS, and JavaScript, and it fetches weather data from the [OpenWeatherAPI](https://openweathermap.org/api). The user can search for the current weather conditions of a city and receive detailed information such as temperature, humidity, and atmospheric pressure.
 
 
 ## Prerequisites
